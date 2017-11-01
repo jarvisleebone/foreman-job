@@ -9,6 +9,9 @@
 
     <artifactId>foreman-job-console</artifactId>
     <packaging>pom</packaging>
+    <modules>
+        <module>foreman-job-console-front</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
